@@ -20,3 +20,41 @@
 #### 19-23日 嵌入式，云端编程调试
 #### 23-25日 组装调试
 
+# name:
+
+#### Turtle and goldfish feeder
+
+# Application scenarios:
+
+## Location:
+
+#### Own family;
+
+## Function:
+
+#### 1. Regular and quantitative feeding;
+
+#### 2. Reminder of insufficient surplus food by mobile phone;
+
+#### 3. Mobile real-time video stream;
+
+#### 4. Remote control feeding;
+
+#### 5. Real time detection of water oxygen rate.
+
+# Development plan:
+
+#### Completed on March 25;
+
+#### 6-10 days price comparison of the whole network, purchase cameras, pressure sensors, dissolved oxygen sensors, motors, etc;
+
+#### 11-13 days making schematic diagram
+
+#### 14-18 days making 3D model
+
+#### #Prerequisite: Everything arrives
+
+#### 19-23 days embedded, cloud programming and debugging
+
+#### 23-25 days assembly and commissioning
+
