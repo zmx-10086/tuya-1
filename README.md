@@ -2,5 +2,9 @@
 ### For more information, please check Tuya Developer Website.
 # 名称：
 #### 乌龟and金鱼喂食器
-# 背景：
-# 我家里有几只金鱼和乌龟，
+# 方案应用场景：
+## 地点：
+#### 自家；
+## 功能：
+#### 1.定时自动喂食；
+#### 2.
